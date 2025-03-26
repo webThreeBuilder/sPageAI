@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="520px" height="520px" viewBox="0 0 520 520" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <rect id="Rectangle" fill="#171717" x="0" y="0" width="520" height="520" rx="5"></rect>
+            <g id="Group" transform="translate(130.000000, 104.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Path" points="123.877265 207.666653 0.459403141 138.312769 0.459403141 75.2663478 132.209888 0 260 73.002934 252.079256 86.5771472 132.209888 18.101041 16.3008908 84.3137334 16.3008908 129.190145 131.699792 194.039146"></polygon>
+                <polygon id="Path" points="127.790112 312 0 238.997066 7.92074382 225.422853 127.790112 293.898959 243.699109 227.686267 243.699109 182.772236 123.829741 114.29613 131.750484 100.721916 259.540597 173.721715 259.540597 236.733652"></polygon>
+                <g transform="translate(31.053170, 146.049967)" id="Rectangle">
+                    <polygon transform="translate(135.331484, 81.133892) rotate(-29.744171) translate(-135.331484, -81.133892) " points="37.5028654 72.8315857 233.088222 73.7214042 233.160102 89.4361985 37.5747455 88.5463801"></polygon>
+                    <polygon transform="translate(91.683338, 57.446018) rotate(-29.846502) translate(-91.683338, -57.446018) " points="-9.24743324 49.1277077 192.542071 50.0476937 192.614109 65.7643293 -9.175395 64.8443433"></polygon>
+                </g>
+                <g transform="translate(2.152644, 27.040811)" id="Rectangle">
+                    <polygon transform="translate(89.057262, 55.743215) rotate(-29.744171) translate(-89.057262, -55.743215) " points="-8.76977665 47.4409156 186.81242 48.3307197 186.8843 64.045514 -8.69789652 63.15571"></polygon>
+                    <polygon transform="translate(131.243228, 80.100413) rotate(-29.484780) translate(-131.243228, -80.100413) " points="32.6468273 71.7967986 229.768131 72.6887462 229.839629 88.404028 32.7183261 87.5120804"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
