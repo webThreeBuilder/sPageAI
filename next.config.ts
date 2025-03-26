@@ -3,10 +3,10 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   /* config options here */
   typescript: {
-    ignoreBuildErrors: true  // 临时忽略 TypeScript 构建错误
+    ignoreBuildErrors: true 
   },
-  output: 'export',
-   images: { unoptimized: true } ,
+  output: 'standalone', // 
+  poweredByHeader: false, 
 };
 
 export default nextConfig;
