@@ -159,7 +159,7 @@ export default function Home() {
           signal: controller.signal
         });
   
-        if (!response.ok) throw new Error('生成失败');
+        if (!response.ok) throw new Error('API request failed');
   
         const reader = response.body?.getReader();
         if (!reader) throw new Error('Stream not supported');
